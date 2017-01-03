@@ -1,0 +1,39 @@
+{ "name": "fawa",
+  "version": "0.0.1",
+  "description": "FaWA = Functions as Web Apps: Embrace the \"web\" approach and reunite the request/response pair.",
+  "keywords": [
+    "fawa",
+    "functional",
+    "web app",
+    "web",
+    "webapp"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/fawa-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/fawa-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/fawa-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "fawa.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+
+  "dependencies": {
+  },
+  "devDependencies": {
+    "equal-pmb": "^0.1.0"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
